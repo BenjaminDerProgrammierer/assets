@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: 
+    url('https://raw.githubusercontent.com/BenjaminDerProgrammierer/assets/main/Seven%20Segment.ttf')
+    format('truetype');
+}
+
+body {
+  font-family: 'MyWebFont';
+}
