@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160px"
+   height="150px"
+   version="1.1"
+   id="svg10618"
+   sodipodi:docname="hANOI.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10622">
+    <rect
+       x="273.02824"
+       y="-1.5579357"
+       width="18.695229"
+       height="29.600779"
+       id="rect445" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview10620"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="157.68481"
+     inkscape:cy="58.513086"
+     inkscape:window-width="1851"
+     inkscape:window-height="1230"
+     inkscape:window-x="1296"
+     inkscape:window-y="69"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <g
+       id="Geruest"
+       transform="translate(0,-80)">
+      <g
+         id="C">
+        <rect
+           style="fill:#784421"
+           id="Saeule-C"
+           width="16"
+           height="65"
+           x="124"
+           y="135" />
+        <text
+           xml:space="preserve"
+           style="font-size:17.6389px;font-family:'Comic Sans MS';fill:#000000"
+           x="125"
+           y="150"
+           id="Text-C"><tspan
+             sodipodi:role="line"
+             id="tspan1263"
+             style="stroke-width:0.661457"
+             x="125"
+             y="150">C</tspan></text>
+      </g>
+      <g
+         id="B">
+        <rect
+           style="fill:#784421"
+           id="Saeule-B"
+           width="16"
+           height="65"
+           x="67"
+           y="135" />
+        <text
+           xml:space="preserve"
+           style="font-size:17.6389px;font-family:'Comic Sans MS';fill:#000000"
+           x="68"
+           y="150"
+           id="Text-B"><tspan
+             sodipodi:role="line"
+             id="tspan1259"
+             style="stroke-width:0.661457"
+             x="68"
+             y="150">B</tspan></text>
+      </g>
+      <g
+         id="A">
+        <rect
+           style="fill:#784421"
+           id="Saeule-A"
+           width="16"
+           height="65"
+           x="10"
+           y="135" />
+        <text
+           xml:space="preserve"
+           style="font-size:17.6389px;font-family:'Comic Sans MS';fill:#000000"
+           x="11"
+           y="150"
+           id="Text-A"><tspan
+             sodipodi:role="line"
+             id="tspan1255"
+             style="stroke-width:0.661457"
+             x="11"
+             y="150">A</tspan></text>
+      </g>
+      <rect
+         style="fill:#784421"
+         id="Geruest-B"
+         width="150"
+         height="15"
+         x="0"
+         y="215" />
+      <rect
+         style="fill:#784421"
+         id="Geruest-A"
+         width="140"
+         height="15"
+         x="5"
+         y="200" />
+    </g>
+    <g
+       id="Steine">
+      <g
+         id="3_Steine">
+        <g
+           id="g1552">
+          <rect
+             style="fill:#ffff00"
+             id="rect14853"
+             width="20"
+             height="12"
+             x="20"
+             y="12" />
+          <text
+             xml:space="preserve"
+             style="display:inline;font-size:12.9101px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.73191;-inkscape-font-specification:'Comic Sans MS, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             x="24.259903"
+             y="23.586645"
+             id="Text-A-2"
+             transform="scale(1.0447453,0.95717109)"
+             inkscape:label="1"><tspan
+               sodipodi:role="line"
+               id="tspan1433">1</tspan></text>
+        </g>
+        <g
+           id="g1557">
+          <rect
+             style="fill:#ff0000"
+             id="rect14851"
+             width="40"
+             height="12"
+             x="10"
+             y="24" />
+          <text
+             xml:space="preserve"
+             style="display:inline;font-size:12.9101px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.73191;-inkscape-font-specification:'Comic Sans MS, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             x="26.797993"
+             y="35.591274"
+             id="Text-A-2-9"
+             transform="scale(1.0447453,0.95717109)"
+             inkscape:label="2"><tspan
+               sodipodi:role="line"
+               id="tspan1437">2</tspan></text>
+        </g>
+        <g
+           id="g1562">
+          <rect
+             style="fill:#800000"
+             id="rect14849"
+             width="60"
+             height="12"
+             x="0"
+             y="36" />
+          <text
+             xml:space="preserve"
+             style="display:inline;font-size:12.9101px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.73191;-inkscape-font-specification:'Comic Sans MS, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             x="26.12117"
+             y="47.78059"
+             id="Text-A-2-5"
+             transform="scale(1.0447453,0.95717109)"
+             inkscape:label="3"><tspan
+               sodipodi:role="line"
+               id="tspan1435">3</tspan></text>
+        </g>
+      </g>
+      <g
+         id="4_Steine"
+         inkscape:label="4_Steine">
+        <g
+           id="g1532">
+          <rect
+             style="fill:#008000"
+             id="4_1b"
+             width="20"
+             height="12"
+             x="110"
+             y="0" />
+          <text
+             xml:space="preserve"
+             style="display:inline;font-size:12.9101px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.73191;-inkscape-font-specification:'Comic Sans MS, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             x="110.04711"
+             y="10.10452"
+             id="Text-A-2-5-8"
+             transform="scale(1.0447453,0.95717109)"
+             inkscape:label="4_1"><tspan
+               sodipodi:role="line"
+               id="tspan1431">1</tspan></text>
+        </g>
+        <g
+           id="g1537">
+          <rect
+             style="fill:#ffff00"
+             id="42b"
+             width="40"
+             height="12"
+             x="100"
+             y="12" />
+          <text
+             xml:space="preserve"
+             style="display:inline;font-size:12.9101px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.73191;-inkscape-font-specification:'Comic Sans MS, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             x="108.69347"
+             y="22.293837"
+             id="Text-A-2-5-1"
+             transform="scale(1.0447453,0.95717109)"
+             inkscape:label="4_2"><tspan
+               sodipodi:role="line"
+               id="tspan1429">2</tspan></text>
+        </g>
+        <g
+           id="g1542">
+          <rect
+             style="fill:#ff0000"
+             id="43b"
+             width="60"
+             height="12"
+             x="90"
+             y="24" />
+          <text
+             xml:space="preserve"
+             style="display:inline;font-size:12.9101px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.73191;-inkscape-font-specification:'Comic Sans MS, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             x="109.03188"
+             y="35.960648"
+             id="Text-A-2-5-2"
+             transform="scale(1.0447453,0.95717109)"
+             inkscape:label="4_3"><tspan
+               sodipodi:role="line"
+               id="tspan1427">3</tspan></text>
+        </g>
+        <g
+           id="g1547">
+          <rect
+             style="fill:#800000"
+             id="4_4"
+             width="80"
+             height="12"
+             x="80"
+             y="36" />
+          <text
+             xml:space="preserve"
+             style="display:inline;font-size:12.9101px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.73191;-inkscape-font-specification:'Comic Sans MS, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             x="110.04712"
+             y="47.78059"
+             id="Text-A-2-5-17"
+             transform="scale(1.0447453,0.95717109)"
+             inkscape:label="4_4"><tspan
+               sodipodi:role="line"
+               id="tspan1425">4</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
